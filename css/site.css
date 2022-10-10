@@ -1,0 +1,25 @@
+
+
+p{
+  color: #336699;
+  font weight: bold;
+
+}
+
+#callout1{
+    text-align: center;
+}
+
+#callout {
+    background-color: #c5c9bb;
+    padding: 20px;
+    margin: 10px;
+    border: solid 1px black;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
