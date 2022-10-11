@@ -1,3 +1,11 @@
 #my-portrait {
-  width: 500px;
+  width: 300px;
+}
+
+
+#introduction {
+  background-color: #c5c9bb;
+  padding: 20px;
+  margin: 10px;
+  border: solid 2px blue;
 }
