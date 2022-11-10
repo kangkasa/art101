@@ -1,9 +1,3 @@
-/**
-*Author: Kyra and Arianna
-*Created: November 9, 2022
-*Licence: Public Domain
-**/
-
 //return pepperoni, hawaiian, chicago-style and bbq Chicken
 //depending on the length of mod 4
 function sortingPizza(str) {
@@ -28,6 +22,6 @@ var myButton = document.getElementById("button");
 myButton.addEventListener("click", function() {
   var name = document.getElementById("input").value;
   var pizza = sortingPizza(name);
-  newText = "<h2>The pizza has sorted you into "+ pizza +"</h2>";
+  newText = "<h2>The pizza has Sorted you into "+ pizza +"</h2>";
   document.getElementById("output").innerHTML = newText;
 });
