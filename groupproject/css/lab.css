@@ -33,7 +33,7 @@ body {
 
 @keyframes slidein {
   from {
-    margin-left: 100vw;
+    margin-left: 150vw;
   }
 
   to {
