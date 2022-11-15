@@ -42,6 +42,6 @@ body {
 }
 
 .outside-browser {
-  overflow: hidden
+  overflow: hidden;
   width: 400vw;
 }
