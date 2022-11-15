@@ -40,3 +40,7 @@ body {
     margin-left: -200vh;
   }
 }
+
+.outside-browser {
+  overflow: hidden
+}
