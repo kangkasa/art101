@@ -2,10 +2,31 @@
 body {
   background-color: tan;
 }
+.planebox{
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+}
 
+.plane{
+  flex-shrink: 0;
+  width: 300px;
+  height: 100px;
+  background-color: black;
+}
+
+.message {
+  flex-shrink: 0;
+  min-width: 200px;
+  height: 70px;
+  background-color: blue;
+  border-color: purple;
+  border-style: solid;
+  border-width: 15px;
+}
 
 .planebox {
-  animation-duration: 8s;
+  animation-duration: 15s;
   animation-name: slidein;
 }
 
@@ -15,6 +36,6 @@ body {
   }
 
   to {
-    margin-left: -20%;
+    margin-left: -50%;
   }
 }
