@@ -32,10 +32,10 @@ body {
 
 @keyframes slidein {
   from {
-    margin-left: 120%;
+    margin-left: 220vh;
   }
 
   to {
-    margin-left: -50%;
+    margin-left: -200vh;
   }
 }
