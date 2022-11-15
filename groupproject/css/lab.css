@@ -26,21 +26,22 @@ body {
 }
 
 .planebox {
-  animation-duration: 15s;
+  animation-duration: 10s;
   animation-name: slidein;
   animation-iteration-count: infinite;
 }
 
 @keyframes slidein {
   from {
-    margin-left: 220vh;
+    margin-left: 100vw;
   }
 
   to {
-    margin-left: -200vh;
+    margin-left: -100vw;
   }
 }
 
 .outside-browser {
   overflow: hidden
+  width: 400vw;
 }
