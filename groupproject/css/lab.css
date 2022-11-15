@@ -4,7 +4,7 @@ body {
 }
 
 
-#rocketship {
+.planebox {
   animation-duration: 8s;
   animation-name: slidein;
 }
