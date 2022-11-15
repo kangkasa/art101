@@ -28,6 +28,7 @@ body {
 .planebox {
   animation-duration: 15s;
   animation-name: slidein;
+  animation-iteration-count: infinite;
 }
 
 @keyframes slidein {
