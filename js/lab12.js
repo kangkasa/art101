@@ -1,3 +1,10 @@
+
+pizzaArray = [
+  {
+
+  }
+]
+
 //return pepperoni, hawaiian, chicago-style and bbq Chicken
 //depending on the length of mod 4
 function sortingPizza(str) {
