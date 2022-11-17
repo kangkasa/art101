@@ -30,7 +30,7 @@ body {
 }
 
 .planebox {
-  animation-duration: 10s;
+  animation-duration: 14s;
   animation-name: slidein;
   animation-iteration-count: infinite;
 }
@@ -41,7 +41,7 @@ body {
   }
 
   to {
-    margin-left: -100vw;
+    margin-left: -150vw;
   }
 }
 
